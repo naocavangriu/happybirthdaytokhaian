@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+    name: "Khải An",
+  photo: "./img/image.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "Chuẩn bị xem gì nè ->",
     },
     {
       type: "countdown",
@@ -65,24 +65,24 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "Là sinh nhật của An đó! :D",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
-      buttonText: "Send",
+        "Chúc mừng sinh nhật An, chúc An skibidi toilet tung tung tung sahur.",
+      buttonText: "Gửi",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Special <span>:)</span>",
+        "Đó là những gì mình định làm.",
+        "Nhưng rồi mình nghĩ lại..",
+        "Mình nhận ra mình muốn làm gì đó thật <strong>đặc biệt</strong>.",
+        "Vì,",
+        "An ĐẶC BIỆT mà <span>:)</span>",
       ],
-      bigLetters: "SO",
+      bigLetters: "Vậy nên",
     },
     {
       type: "quote",
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "Chúc mừng sinh nhật!",
+      wishText: "Chúc An sinh nhật vui vẻ, học giỏi và nghe lời bố mẹ nhé!",
     },
     {
       type: "fireworks",
@@ -112,8 +112,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
-      replayText: "Or click, if you want to watch it again.",
+      text: "Okay, giờ thì hãy nhắn mình nếu thấy hay nhé",
+      replayText: "Hoặc bấm vào, nếu muốn xem lại.",
     },
   ],
 };
